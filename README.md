@@ -1,16 +1,14 @@
 # Android-App
 # Doctor-Information
 
+<b>About</b>
+<p>It is an android and ios base application, campus guide, information project. The goals of this project are connect teacher and student by this app and help each other by providing information. Provides a proper guideline for a new student or any guest and also have many features for student & teachers to make easy campus life. </p>
+
 <p align="center">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/1.png" width="30%">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/2.png" width="30%">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/3.0.png" width="30%">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/3.1.png" width="30%">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/4.png" width="30%"><br/>
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/5.0.png" width="30%">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/5.png" width="30%">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/6.png" width="30%">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/7.0.png" width="30%">
-  <img src="https://securesoftbd.com/Github/Personal-Doctor-Information/7.png" width="30%">
+  <img src="https://drive.google.com/open?id=1PhhycE_R_BRiBrB729jZTxOawSyU2edZ" width="45%">
+  <img src="https://drive.google.com/open?id=1oze_GqNfuCOP_M71L9sIItWDrYmIGa-2" width="450%">
 </p>
+
+<a href="">
+   <a href="https://sites.google.com/view/diucampusguide/home">Visit Website For MOre Information</a> 
 
