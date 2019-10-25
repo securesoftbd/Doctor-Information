@@ -2,12 +2,43 @@
 # Doctor-Information
 
 <b>About</b>
-<p>It is an android and ios base application, campus guide, information project. The goals of this project are connect teacher and student by this app and help each other by providing information. Provides a proper guideline for a new student or any guest and also have many features for student & teachers to make easy campus life. </p>
+<p>It is an android and ios base application, campus guide, information project. The goals of this project are connect teacher and student by this app and help each other by providing information. Provides a proper guideline for a new student or any guest and also have many features for student & teachers to make easy campus life. </p> <br>
 
-<p align="center">
-  <img src="https://drive.google.com/open?id=1PhhycE_R_BRiBrB729jZTxOawSyU2edZ" width="45%">
-  <img src="https://drive.google.com/open?id=1oze_GqNfuCOP_M71L9sIItWDrYmIGa-2" width="450%">
-</p>
+<p> <b>Product features</b><br>
+
+1. Functional requirement<br>
+
+Functional requirements of our application are explained below.<br>
+
+Teachers must have valid Information to login thus creating their individual profiles.<br>
+
+Students must have valid Information to login thus creating their individual profiles.<br>
+
+                Teacher can add counselling hour.<br>
+                Teacher create post.<br>
+                Teacher add their off day.<br>
+                Teacher can see the club information, transport schedule, campus map.<br>
+                Students can see the club information, transport schedule, campus map.<br>
+                Students search the Teacher.<br>
+                Student views post.<br>
+                Students identify course advisor, academic building.<br>
+                Students can add class routine.<br>
+                Students check notices board, question bank, thesis project.<br>
+                Emergency Service.<br>
+                Other facilities.<br>
+
+ 
+
+2. Non Functional requirement <br>
+
+Requirement that specifies criteria that can be used to judge the operation of a system are called nonfunctional requirements. Nonfunctional requirements of our system are mentioned below.<br>
+
+            Secure access of confidential data. <br>
+            Better component design to get efficiency at peak time. <br>
+            The application should be available for 24/7<br>
+            Maximum time availability.<br>
+            Mobile based online android application.</p><br>
+
 
 <a href="">
    <a href="https://sites.google.com/view/diucampusguide/home">Visit Website For MOre Information</a> 
