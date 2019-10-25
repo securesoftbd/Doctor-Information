@@ -1,4 +1,4 @@
-# Android-App
+# Android & IOS Application
 # Doctor-Information
 
 <p><a href="https://sites.google.com/view/diucampusguide/home"><h1>Project Website</h1></a> </p> <br>
