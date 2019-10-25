@@ -1,6 +1,8 @@
 # Android-App
 # Doctor-Information
 
+<p><a href="https://sites.google.com/view/diucampusguide/home">Project Website</a> </p> <br>
+
 <b>About</b>
 <p>It is an android and ios base application, campus guide, information project. The goals of this project are connect teacher and student by this app and help each other by providing information. Provides a proper guideline for a new student or any guest and also have many features for student & teachers to make easy campus life. </p> <br>
 
@@ -37,9 +39,8 @@ Requirement that specifies criteria that can be used to judge the operation of a
             Better component design to get efficiency at peak time. <br>
             The application should be available for 24/7<br>
             Maximum time availability.<br>
-            Mobile based online android application.</p><br>
+            Mobile based online android application.</p><br><br>
 
 
-<a href="">
-   <a href="https://sites.google.com/view/diucampusguide/home">Visit Website For MOre Information</a> 
+   <a href="https://sites.google.com/view/diucampusguide/home">Visit Website For More Information</a> 
 
